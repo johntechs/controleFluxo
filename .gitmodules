@@ -1,0 +1,6 @@
+[submodule "ControleFluxoAPI"]
+	path = ControleFluxoAPI
+	url = https://github.com/johntechs/ControleFluxoAPI
+[submodule "controle-fluxo-app"]
+	path = controle-fluxo-app
+	url = https://github.com/johntechs/controle-fluxo-app
